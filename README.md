@@ -2,15 +2,15 @@
 
 <h2>👨‍💻 Cloud/DevOps Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>DevOps-Bootcamp</b>
+  - [DevOps-Bootcamp](https://github.com/toyekuti/DevOps-Bootcamp)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (Python, C, Cython, C++, and Shell)</b>
+  - [AI-Bypasser Text-To-Video ](https://github.com/toyekuti/AI-Bypasser)
+- <b>Java (AlgoExpert)</b>
+  - [ToDoList](https://github.com/toyekuti/ToDoList)
 
 <h2> 🤳 Connect with me:</h2>
 
