@@ -14,13 +14,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="OlutoyeRansome-Kuti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="OlutoyeRansome-Kuti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="OlutoyeRansome-Kuti | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="OlutoyeRansome-Kuti | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[linkedin]: https://www.linkedin.com/in/olutoyeransomekuti
 [twitter]: https://twitter.com/toyekuti
 [instagram]: https://www.instagram.com/olutoyekuti
-[linkedin]: https://www.linkedin.com/in/olutoyeransomekuti
 
 <!--
 **toyekuti/toyekuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
