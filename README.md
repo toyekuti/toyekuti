@@ -7,9 +7,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (Python, C, Cython, C++, and Shell)</b>
+- <b>Full Stack Web App (Python, C, C++, and Shell)</b>
   - [AI-Bypasser Text-To-Video ](https://github.com/toyekuti/AI-Bypasser)
-- <b>Java (AlgoExpert)</b>
+- <b>Java</b>
   - [ToDoList](https://github.com/toyekuti/ToDoList)
 
 <h2> 🤳 Connect with me:</h2>
