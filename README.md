@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cloud/DevOps Projects:</h2>
 
-- <b>Terraform-on-Multicloudb
-  - [DevOps-Bootcamp](https://github.com/toyekuti/DevOps-Bootcamp)https://github.com/toyekuti/Terraform-on-Multicloud
+- <b>Terraform-on-Multicloud
+  - [Terraform-on-Multicloud](https://github.com/toyekuti/Terraform-on-Multicloud)
 
 - <b>DevOps-Bootcamp</b>
   - [DevOps-Bootcamp](https://github.com/toyekuti/DevOps-Bootcamp)
