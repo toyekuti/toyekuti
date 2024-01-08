@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toye! <br/><a href="https://github.com/toyekuti">Aspiring Cloud/DevOps Engineer</a></h1>
+<h1>Hi, I'm Toye! <br/><a href="https://github.com/toyekuti">Aspiring Cybersecurity/Cloud/DevOps Engineer</a></h1>
 
 <h2>👨‍💻 Cloud/DevOps Projects:</h2>
 
