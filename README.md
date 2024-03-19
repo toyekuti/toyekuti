@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Password Manager</b>
-
   - [password-manager](https://github.com/toyekuti/password-manager)
 
 <h2>👨‍💻 Cloud Computing Projects:</h2>
