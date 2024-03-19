@@ -1,6 +1,7 @@
 <h1>Hi, I'm Toye! <br/><a href="https://github.com/toyekuti">Aspiring Cybersecurity/Cloud/DevOps Engineer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
 - <b>Password Manager</b>
 
   - [password-manager](https://github.com/toyekuti/password-manager)
